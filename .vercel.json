@@ -17,7 +17,7 @@
                     "OPTIONS"
                 ],
                 "headers": {
-                    "Access-Control-Allow-Origin": "https://ngotoan-react-btvn-git-task47-ngotoans-projects.vercel.app",
+                    "Access-Control-Allow-Origin": "https://vercel.com/ngotoans-projects/react-codefarm",
                     "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",
                     "Access-Control-Allow-Headers": "Content-Type, Authorization"
                 }
