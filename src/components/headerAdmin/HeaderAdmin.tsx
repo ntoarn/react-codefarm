@@ -80,6 +80,7 @@ const HeaderAdmin: React.FC = () => {
                             borderRadius: borderRadiusLG,
                         }}
                     >
+                        <Outlet/>
 
                     </div>
                 </Content>
